@@ -23,6 +23,7 @@
       <version>${junit.version}</version>
       <scope>test</scope>
     </dependency>
+    
     <!-- Dependencia para usar arquivos CSV como massa de dados -->
 		<dependency>
 			<groupId>pl.pragmatists</groupId>
