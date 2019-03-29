@@ -10,6 +10,7 @@ import exercicio3.ValidacaoIgualdade;
 
 @RunWith(Suite.class)
 @SuiteClasses({ MeuPrimeiroTeste.class, ValidacaoVerdadeiroFalso.class, ValidacaoIgualdade.class, })
+
 public class SuiteDeTeste {
 
 }
