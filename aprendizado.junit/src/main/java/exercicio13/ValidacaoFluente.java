@@ -9,6 +9,7 @@ import org.junit.Test;
 import static org.hamcrest.CoreMatchers.*;
 
 public class ValidacaoFluente {
+	//Adionado comentario para teste gitKraken
 	@Test
 	public void calidacaoEqualTo(){
 		String produto = "TV 40 polegadas";
